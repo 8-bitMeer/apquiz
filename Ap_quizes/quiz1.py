@@ -18,7 +18,7 @@ numberOfApples < numberOfOranges
 $14.50
 # 6. Create a variable that uses the input function and then print that variable. Your variable 
 # should ask a user to enter their name.  
-43243
+enumerate
 # 7. You have been asked to create a program for a community center that wants to plan a cookout. 
 # The community center wants you to build a form program and capture several key data points. 
 # They want to know a visitor's full name, their age, if they have an allergy, and what their 
