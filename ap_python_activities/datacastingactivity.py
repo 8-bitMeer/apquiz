@@ -4,7 +4,7 @@
 
 # convert the following floats into integers.
 12.34=1234
-23.33=
+23.33=2333
 
 # modify the code below to print an integer number. 
 num_one = 20

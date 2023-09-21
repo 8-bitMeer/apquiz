@@ -1,10 +1,11 @@
-# type() = prints the data type wrapped in the round brackets.
+#number= False
+#print(type(number))
 
-car= 'lambo'
+#numberOfBooks = 3490909
+#print(float(numberOfBooks))
 
-print(type(car))
+#numberOfPencils = 1242.023343
+#print(int(numberOfPencils))
 
-
-is it a week day= true
-
-number_of_books = 10
+fraction_of_pizza = True
+print(type(fraction_of_pizza))
