@@ -15,6 +15,7 @@ linkTwo= 'https://afternerd.com/blog/python-lists-for-absolute-beginners/'
 # data type they will be. 
 # Some examples: favorite_atheletes, favorite_games, favorite_books, etc.  
 ["mario kart 8", "super smash bros.", "super mario odyssey", "pokemon", "Sonic frontiers"]
+
 # 2. Find and print the specific item in each list based on their index in the list
 # HINT you will need to use a python built-in function that specifically lets you find items in a Python list. 
 
